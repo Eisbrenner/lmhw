@@ -1,0 +1,12 @@
+
+# Python
+**/.venv/
+**/__pycache__/
+**/.mypy_cache/
+**/.pytest_cache/
+
+# IDEs
+**/.vscode/
+
+# MacOS
+**/.DS_Store
