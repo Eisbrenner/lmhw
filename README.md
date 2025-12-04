@@ -6,7 +6,7 @@
 
 If you use this software, please cite:
 
-Eisbrenner, E. (2025). Lagrangian attribution of marine heatwave drivers. _Environmental Research Communications_. <https://doi.org/10.1088/2515-7620/ae0f81>
+> Eisbrenner, E. (2025). Lagrangian attribution of marine heatwave drivers. _Environmental Research Communications_. <https://doi.org/10.1088/2515-7620/ae0f81>
 
 ```bibtex
 @article{Eisbrenner2025,
