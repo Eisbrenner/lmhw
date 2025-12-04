@@ -2,6 +2,7 @@
 name = "lmhw"
 version = "2025.0.0"
 description = "Code accompaniying the publicationn 'Lagrangian attribution of marine heatwave drivers' with the DOI 10.1088/2515-7620/ae0f81"
+license = "MIT"
 readme = "README.md"
 authors = [
     { name = "Ezra Eisbrenner", email = "lmhw@ezra-eisbrenner.eu" }
