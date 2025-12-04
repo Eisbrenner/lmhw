@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: Lagrangian attribution of marine heatwave drivers
+
+message: >-
+  If you use this software, please cite the associated journal article.
+
+type: software
+
+authors:
+  - given-names: Ezra
+    family-names: Eisbrenner
+    orcid: 'https://orcid.org/0000-0002-4042-6087'
+
+repository-code: https://github.com/Eisbrenner/lmhw
+url: https://github.com/Eisbrenner/lmhw
+
+version: 2025.0.0
+license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Ezra
+      family-names: Eisbrenner
+  title: Lagrangian attribution of marine heatwave drivers
+  journal: Environmental Research Communications
+  year: 2025
+  doi: 10.1088/2515-7620/ae0f81
+  issn: 2515-7620
+  url: https://doi.org/10.1088/2515-7620/ae0f81
+
+keywords:
+  - marine heatwave driver attribution
+  - mixed layer temperature anomaly tracking
+  - Lagrangian marine heatwave analysis
